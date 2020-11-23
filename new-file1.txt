@@ -1,2 +1,6 @@
 This is the second file created after cloning the master branch
 
+Trying to see what happens if we checkout to another branch without commiting chnages in 
+one branch.
+
+ 
